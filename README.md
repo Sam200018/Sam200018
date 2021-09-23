@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 <!-- - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
-##- 💬 Ask me about mobile development with Flutter
+## - 💬 Ask me about mobile development with Flutter
 <img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="Flutter" border="0">
 <!--- 📫 How to reach me: ...-->
-##- 😄 Pronouns: He/his
-##- ⚡ Fun facts:
+## - 😄 Pronouns: He/his
+## - ⚡ Fun facts:
 
-	###I like a lot F1 carrers🏎🏎
+	### I like a lot F1 carrers🏎🏎
 
-	###I like listennig music all the time🎶🎶
+	### I like listennig music all the time🎶🎶
 
-	###I have a dog called Jake🐾🐾
+	### I have a dog called Jake🐾🐾
