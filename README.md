@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 <a href="https://ibb.co/S5Q3bh4"><img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="personal-Work" border="0"></a>
 <!--- 📫 How to reach me: ...-->
 - 😄 Pronouns: He/his
-- ⚡ Fun facts: 
+- ⚡ Fun facts:
+
 	I like a lot F1 carrers🏎🏎
+
 	I like listennig music all the time🎶🎶
+
 	I have a dog called Jake🐾🐾
