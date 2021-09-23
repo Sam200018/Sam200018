@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
  -->
-##- 🔭 I’m currently working on my personal app with Flutter Framework, this is my first professional app
+## - 🔭 I’m currently working on my personal app with Flutter Framework, this is my first professional app
 
 <a href="https://ibb.co/S5Q3bh4"><img src="https://i.ibb.co/pbWLctB/personal-Work.png" alt="personal-Work" border="0"></a>
 
@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="Flutter" border="0">
 <!--- 📫 How to reach me: ...-->
 ## - 😄 Pronouns: He/his
+
 ## - ⚡ Fun facts:
+   ### I like a lot F1 carrers🏎🏎
 
-	### I like a lot F1 carrers🏎🏎
+   ### I like listennig music all the time🎶🎶
 
-	### I like listennig music all the time🎶🎶
-
-	### I have a dog called Jake🐾🐾
+   ### I have a dog called Jake🐾🐾
