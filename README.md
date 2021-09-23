@@ -7,7 +7,7 @@ Here are some ideas to get you started:
  -->
 - 🔭 I’m currently working on my personal app with Flutter Framework, this is my first professional app
 
-<a href="https://ibb.co/S5Q3bh4"><img src="https://i.ibb.co/S5Q3bh4/personal-Work.png" alt="personal-Work" border="0"></a>
+<a href="https://ibb.co/S5Q3bh4"><img src="https://i.ibb.co/pbWLctB/personal-Work.png" alt="personal-Work" border="0"></a>
 
 > Pills
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about mobile development with Flutter
-<a href="https://ibb.co/S5Q3bh4"><img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="personal-Work" border="0"></a>
+<img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="Flutter" border="0">
 <!--- 📫 How to reach me: ...-->
 - 😄 Pronouns: He/his
 - ⚡ Fun facts:
