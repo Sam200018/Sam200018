@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 ## - 💬 Ask me about mobile development with Flutter
-<img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="Flutter" border="0" width="450" height="250">
+<img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="Flutter" border="0" width="350" height="150">
 <!--- 📫 How to reach me: ...-->
 
 ## - 😄 Pronouns: He/his
