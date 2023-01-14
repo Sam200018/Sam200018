@@ -1,26 +1,29 @@
-# Hi there 🏎
+<h1 align="center">Hi 👋, I'm Samuel Bautista</h1>
+<h3 align="center">A passionate Mobile developer from Mexico</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam200018&label=Profile%20views&color=0e75b6&style=flat" alt="sam200018" /> </p>
 
-<!-- **Sam200018/Sam200018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Pills, my personal app with Flutter](https://github.com/Sam200018/Pills)
 
-Here are some ideas to get you started:
- -->
-## - 🔭 I’m currently working on my personal app with Flutter Framework, this is my first professional app
+- 👨‍💻 All of my projects are available at [https://sam200018.github.io/](https://sam200018.github.io/)
 
+- 💬 Ask me about **Flutter, Kotlin and algorithms and DS**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jQZst7209XR6_IPSPFg9mPYtPLdlWFx5/view?usp=sharing](https://drive.google.com/file/d/1jQZst7209XR6_IPSPFg9mPYtPLdlWFx5/view?usp=sharing)
 
-<!-- - 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...-->
-## - 💬 Ask me about mobile development with Flutter
+- ⚡ Fun fact **I like Formula 1, my favorite drive is Checo Perez🏎️**
 
-<!--- 📫 How to reach me: ...-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/samuel-bautista-bastida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/samuel-bautista-bastida" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sabb0600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sabb0600" height="30" width="40" /></a>
+</p>
 
-## - 😄 Pronouns: He/his
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-## - ⚡ Fun facts:
-   ### I like a lot F1 carrers🏎🏎
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam200018&show_icons=true&theme=dark&locale=en&layout=compact" alt="sam200018" /></p>
 
-   ### I like listennig music all the time🎶🎶
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam200018&show_icons=true&theme=dark&locale=en" alt="sam200018" /></p>
 
-   ### I have a dog called Jake🐾🐾
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam200018&" alt="sam200018" /></p>
