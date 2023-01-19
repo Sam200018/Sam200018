@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter, Kotlin and algorithms and DS**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jQZst7209XR6_IPSPFg9mPYtPLdlWFx5/view?usp=sharing](https://drive.google.com/file/d/1jQZst7209XR6_IPSPFg9mPYtPLdlWFx5/view?usp=sharing)
+- 📄 Know about my experiences [https://sam200018.github.io/screens/resume.html](https://sam200018.github.io/screens/resume.html)
 
 - ⚡ Fun fact **I like Formula 1, my favorite drive is Checo Perez🏎️**
 
